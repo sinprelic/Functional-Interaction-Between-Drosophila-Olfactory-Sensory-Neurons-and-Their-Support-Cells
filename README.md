@@ -1,10 +1,14 @@
-# Functional Interaction Between Drosophila Olfactory Sensory Neurons and Their Support Cells
+# Functional Interaction Between *Drosophila* Olfactory Sensory Neurons and Their Support Cells
 
-### Sinisa Prelic, Venkatesh Pal Mahadevan, Vignesh Venkateswaran, Sofia Lavista-Llanos, Bill S. Hansson, Dieter Wicher
+### Sinisa Prelic[^1], Venkatesh Pal Mahadevan[^1], Vignesh Venkateswaran[^1], Sofia Lavista-Llanos[^1][^2], Bill S. Hansson[^1], Dieter Wicher[^1]
 
-Published in *Frontiers in Cellular Neuroscience* (volume 15 - 2021), specialty section *Non-Neuronal Cells* on January 7, 2022.
+[^1]: Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology, Jena, Germany
+[^2]: CIFASIS-CONICET Franco-Argentine International Center for Information and Systems Sciences—National Council for Scientific and Technical Research, Rosario, Argentina
 
-Submitted October 4, 2021; accepted December 15, 2021.
+Published in *Frontiers in Cellular Neuroscience* (volume 15 - 2021), 
+specialty section *Non-Neuronal Cells*.
+
+Submitted October 4, 2021; accepted December 15, 2021; published January 7, 2022.
 
 <!-- <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="large_rectangle"></span>
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fncel.2021.789086)](https://doi.org/10.3389/fncel.2021.789086)
@@ -12,9 +16,9 @@ Submitted October 4, 2021; accepted December 15, 2021.
 
 ## Links
 
-- [DOI link](https://doi.org/10.3389/fncel.2021.789086)
-- [Journal link](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full)
-- [Supplementary Data link](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full#supplementary-material)
+- [DOI](https://doi.org/10.3389/fncel.2021.789086)
+- [Journal](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full)
+- [Supplementary Data](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full#supplementary-material)
 - [Data repository](https://dx.doi.org/10.17617/3.7m)
 
 ## Summary of study data deposited at [EDMOND repository](https://dx.doi.org/10.17617/3.7m)
@@ -82,15 +86,15 @@ readme.txt last updated: Nov 9, 2021
 | DW, SL-L | Supervision |
 | SP | Writing - Original Draft Preparation |
 | SP, DW, SL-L | Writing - Review & Editing |
-| DW, BH | Resources |
+| DW, BSH | Resources |
 |  | **Investigation (experimental/methodology)** |
 | SP | Fly rearing, crossing |
 | SP | Immunohistochemistry |
 | SP | Fluorescence microscopy |
-| SP | *ex vivo* cation (Ca<sup>2+</sup> & K<sup>+</sup>) imaging |
+| SP | *Ex vivo* cation (Ca<sup>2+</sup> & K<sup>+</sup>) imaging |
 | VPM | Single-sensillum recording (SSR) |
 | SP, VPM | SSR data processing |
-| SP, VV | R scripting (automated processing/plotting of imaging data; three-step electrophysiological data analysis, peak extraction & AUC calculation) |
+| SP, VV | *R* scripting (automated processing/plotting of imaging data; three-step electrophysiological data analysis, peak extraction & AUC calculation) |
 
 | Funding |
 |---|
