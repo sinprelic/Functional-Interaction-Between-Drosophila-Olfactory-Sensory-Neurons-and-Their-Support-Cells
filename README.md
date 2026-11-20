@@ -1,6 +1,6 @@
 # Functional Interaction Between *Drosophila* Olfactory Sensory Neurons and Their Support Cells
 
-### Sinisa Prelic<sup>1</sup>, Venkatesh Pal Mahadevan<sup>1</sup>, Vignesh Venkateswaran<sup>1</sup>, Sofia Lavista-Llanos<sup>1,2</sup>, Bill S. Hansson<sup>1,†</sup>, Dieter Wicher<sup>1,†,*</sup>
+### Sinisa Prelic<sup>1</sup>, Venkatesh Pal Mahadevan<sup>1</sup>, Vignesh Venkateswaran<sup>1</sup>, Sofia Lavista-Llanos<sup>1,2</sup>, Bill S. Hansson<sup>1,†</sup> & Dieter Wicher<sup>1,†,*</sup>
 
 <small>
 <sup>1</sup> Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology, Jena, Germany<br>
