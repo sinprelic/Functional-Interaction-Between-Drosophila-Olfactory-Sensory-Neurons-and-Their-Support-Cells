@@ -11,6 +11,10 @@
 
 ## Publication info
 
+[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimpact-ui.frontiersin.org%2Fapi%2FarticleTotals%3FarticleId%3D789086&query=%24.totalCitations&label=Citations&color=005B9A)](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full) 
+[![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimpact-ui.frontiersin.org%2Fapi%2FarticleTotals%3FarticleId%3D789086&query=%24.totalViews&label=Views&color=005B9A)](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full) 
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimpact-ui.frontiersin.org%2Fapi%2FarticleTotals%3FarticleId%3D789086&query=%24.totalDownloads&label=Downloads&color=005B9A)](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full) 
+
 Published in ***Frontiers in Cellular Neuroscience***, 
 specialty section *Non-Neuronal Cells*.
 
@@ -21,16 +25,13 @@ specialty section *Non-Neuronal Cells*.
 | Accepted | December 15, 2021 |
 | Published | January 7, 2022 |
 
-<!-- <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="large_rectangle"></span>
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fncel.2021.789086)](https://doi.org/10.3389/fncel.2021.789086)
-[![Citations](https://badge.dimensions.ai/details/doi/10.3389/fncel.2021.789086.svg)](https://doi.org/10.3389/fncel.2021.789086) -->
-
 ## Links
 
 - [DOI](https://doi.org/10.3389/fncel.2021.789086)
 - [Journal](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full)
 - [Supplementary Data](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full#supplementary-material)
 - [Data repository](https://dx.doi.org/10.17617/3.7m)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/35069116/)
 
 ## Summary of study data deposited at [EDMOND repository](https://dx.doi.org/10.17617/3.7m)
 
