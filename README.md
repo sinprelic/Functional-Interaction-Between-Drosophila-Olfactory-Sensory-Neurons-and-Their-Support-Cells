@@ -1,31 +1,79 @@
-### Functional Interaction Between Drosophila Olfactory Sensory Neurons and Their Support Cells
+# Functional Interaction Between Drosophila Olfactory Sensory Neurons and Their Support Cells
 
-#### Sinisa Prelic, Venkatesh Pal Mahadevan, Vignesh Venkateswaran, Sofia Lavista-Llanos, Bill S. Hansson, Dieter Wicher
+### Sinisa Prelic, Venkatesh Pal Mahadevan, Vignesh Venkateswaran, Sofia Lavista-Llanos, Bill S. Hansson, Dieter Wicher
 
-Published in *Frontiers in Cellular Neuroscience* (volume 15 - 2021), specialty section *Non-Neuronal Cells* on January 7, 2022. Submitted October 4, 2021; accepted December 15, 2021.
+Published in *Frontiers in Cellular Neuroscience* (volume 15 - 2021), specialty section *Non-Neuronal Cells* on January 7, 2022.
 
-1
+Submitted October 4, 2021; accepted December 15, 2021.
 
-<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="large_rectangle"></span>
-
-vs. 
-
-2
-
+<!-- <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="large_rectangle"></span>
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fncel.2021.789086)](https://doi.org/10.3389/fncel.2021.789086)
+[![Citations](https://badge.dimensions.ai/details/doi/10.3389/fncel.2021.789086.svg)](https://doi.org/10.3389/fncel.2021.789086) -->
 
-vs.
-
-3
-
-[![Citations](https://badge.dimensions.ai/details/doi/10.3389/fncel.2021.789086.svg)](https://doi.org/10.3389/fncel.2021.789086)
+## Links
 
 - [DOI link](https://doi.org/10.3389/fncel.2021.789086)
-- [Journal link]()
-- [Supplementary data link]()
-- [Data repository (EDMOND)](https://dx.doi.org/10.17617/3.7m)
+- [Journal link](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full)
+- [Supplementary Data link](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.789086/full#supplementary-material)
+- [Data repository](https://dx.doi.org/10.17617/3.7m)
 
-| Author | Contributions |
+## Summary of study data deposited at [EDMOND repository](https://dx.doi.org/10.17617/3.7m)
+
+<details><summary>readme.txt</summary>
+
+<pre>
+Deposited data for the study
+"Functional interaction between Drosophila olfactory sensory neurons and their support cells"
+by
+"Sinisa Prelic"
+readme.txt last updated: Nov 9, 2021
+
+#Folders and -contents follow
+
+# Fig 1 (Immunofluorescence of support cells)
+- All raw confocal micrographs are provided.
+- All processed confocal micrographs are provided.
+
+# Fig 2 (Schematic of workflow and exemplary images of cation imaging in 3 cell types)
+- Exemplary images of each of the 3 cell types imaged expression either Ca2+ (UAS-GC6f) or K+ (UAS-GINKO1) reporter
+- Includes scaling information for objective used during cation imaging studies
+
+# Fig 3 (Cation imaging in tormogen cells)
+[Files within may be named "Fig 2" because figure was originally Fig 2 prior to review stage.]
+- All replicates and processed files provided.
+- Includes data subsetted for responders and non-responders.
+
+# Fig 4 (Cation imaging in thecogen cells)
+[Files within may be named "Fig 3" because figure was originally Fig 3 prior to review stage.]
+- All replicates and processed files provided.
+- Includes dose-response for 1-150mM KCl experiments.
+
+# Fig 5 (SSR data for recordings in thecogen cell-intact and -ablated flies)
+[Files within may be named "Fig 4" because figure was originally Fig 4 prior to review stage.]
+- All AutoSpike files (annotated, "processed") used are provided.
+- Genetics of crosses (2 parental control lines, and 1 experimental line for thecogen cell ablation post-development; both non-heatshocked and heatshocked cohorts) are provided.
+- Response profiles data sheets provided (e.g. Fig 4D)
+- Resting activity data sheets provided (e.g. Fig 4E,F)
+- Temporal response traces data sheets provided (e.g. Figure S4,S5)
+
+# Fig 6 (Schematic of workflow and exemplary images of cation imaging in 3 cell types)
+- Includes graphical summary
+
+# Supplementary figures
+- Addenda to other figures. All files used are provided.
+
+# Scripts used
+- All major scripts provided that I used to process data, perform statistics, generate graphs
+
+# Recipe for fly food
+- Fly food recipe used in Hansson lab (dept. Evolutionary Neuroethology, MPI-CE, Jena, DE)
+- Included because there is no such thing as "conventional" cornmeal agar fly food
+</pre>
+</details>
+
+## Contributors
+
+| Author | Contribution (manuscript) |
 |---|---|
 | SP, SL-L, DW | Conceptualization |
 | SP | Formal analysis |
@@ -56,15 +104,21 @@ vs.
 | Silke Trautheim | Technical lab assistance |
 | Dr. Veit Grabe | Technical lab assistance |
 | Carolin Hoyer | Technical lab assistance |
-| Dr. Yi Shen | GINKO1 plasmid provision |
-| Dr. Fabio Miazzi | pUAST-GINKO1 construct prep for fly transformation |
-| Dr. Craig Montell | supplying ASE5-GAL4, nompA-GAL4 transgenic fly lines |
+| Dr. Yi Shen | `GINKO1` plasmid provision |
+| Dr. Fabio Miazzi | `pUAST-GINKO1` construct prep for fly transformation |
+| Dr. Craig Montell | Supplying `ASE5-GAL4`, `nompA-GAL4` transgenic fly lines |
 
 ## Citation
+
+<details>
+<summary>Plaintext
+</summary>
 
 ```
 Prelic S, Pal Mahadevan V, Venkateswaran V, Lavista-Llanos S, Hansson BS and Wicher D (2022) Functional Interaction Between Drosophila Olfactory Sensory Neurons and Their Support Cells. Front. Cell. Neurosci. 15:789086. doi: 10.3389/fncel.2021.789086
 ```
+
+</details>
 
 <details>
 <summary>.bib (BibTex)
@@ -183,7 +237,7 @@ ER  -
 
 ## Copyright / License
 
-© 2022 Prelic, Pal Mahadevan, Venkateswaran, Lavista-Llanos, Hansson and Wicher. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+© 2022 Prelic, Pal Mahadevan, Venkateswaran, Lavista-Llanos, Hansson and Wicher. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY)](http://creativecommons.org/licenses/by/4.0/). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
 
 ## Keywords
 
