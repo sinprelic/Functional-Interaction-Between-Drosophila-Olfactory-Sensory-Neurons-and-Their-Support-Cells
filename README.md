@@ -1,14 +1,25 @@
 # Functional Interaction Between *Drosophila* Olfactory Sensory Neurons and Their Support Cells
 
-### Sinisa Prelic[^1], Venkatesh Pal Mahadevan[^1], Vignesh Venkateswaran[^1], Sofia Lavista-Llanos[^1][^2], Bill S. Hansson[^1], Dieter Wicher[^1]
+### Sinisa Prelic<sup>1</sup>, Venkatesh Pal Mahadevan<sup>1</sup>, Vignesh Venkateswaran<sup>1</sup>, Sofia Lavista-Llanos<sup>1,2</sup>, Bill S. Hansson<sup>1,†</sup>, Dieter Wicher<sup>1,†,*</sup>
 
-[^1]: Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology, Jena, Germany
-[^2]: CIFASIS-CONICET Franco-Argentine International Center for Information and Systems Sciences—National Council for Scientific and Technical Research, Rosario, Argentina
+<small>
+<sup>1</sup> Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology, Jena, Germany<br>
+<sup>2</sup> CIFASIS-CONICET Franco-Argentine International Center for Information and Systems Sciences - National Council for Scientific and Technical Research, Rosario, Argentina<br>
+<sup>*</sup> Corresponding author<br>
+<sup>†</sup> Shared last authorship
+</small>
 
-Published in *Frontiers in Cellular Neuroscience* (volume 15 - 2021), 
+## Publication info
+
+Published in ***Frontiers in Cellular Neuroscience***, 
 specialty section *Non-Neuronal Cells*.
 
-Submitted October 4, 2021; accepted December 15, 2021; published January 7, 2022.
+| Stage | Date |
+|---|---|
+| Submitted | October 4, 2021 |
+| Peer review |  |
+| Accepted | December 15, 2021 |
+| Published | January 7, 2022 |
 
 <!-- <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="large_rectangle"></span>
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fncel.2021.789086)](https://doi.org/10.3389/fncel.2021.789086)
@@ -83,9 +94,9 @@ readme.txt last updated: Nov 9, 2021
 | SP | Formal analysis |
 | SP | Data curation |
 | SP | Plotting, visualizations, figures |
-| DW, SL-L | Supervision |
 | SP | Writing - Original Draft Preparation |
 | SP, DW, SL-L | Writing - Review & Editing |
+| DW, SL-L | Supervision |
 | DW, BSH | Resources |
 |  | **Investigation (experimental/methodology)** |
 | SP | Fly rearing, crossing |
