@@ -93,22 +93,22 @@ readme.txt last updated: Nov 9, 2021
 
 | Author | Contribution (manuscript) |
 |---|---|
-| SP, SL-L, DW | Conceptualization |
-| SP | Formal analysis |
-| SP | Data curation |
-| SP | Plotting, visualizations, figures |
-| SP | Writing - Original Draft Preparation |
-| SP, DW, SL-L | Writing - Review & Editing |
-| DW, SL-L | Supervision |
-| DW, BSH | Resources |
+| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#4D5D16"><strong>SL-L</strong></font>, <font color="#1F4E79"><strong>DW</strong></font> | Conceptualization |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Formal analysis |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Data curation |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Plotting, visualizations, figures |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Writing - Original Draft Preparation |
+| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#1F4E79"><strong>DW</strong></font>, <font color="#4D5D16"><strong>SL-L</strong></font> | Writing - Review & Editing |
+| <font color="#1F4E79"><strong>DW</strong></font>, <font color="#4D5D16"><strong>SL-L</strong></font> | Supervision |
+| <font color="#1F4E79"><strong>DW</strong></font>, <font color="#6A4C93"><strong>BSH</strong></font> | Resources |
 |  | **Investigation (experimental/methodology)** |
-| SP | Fly rearing, crossing |
-| SP | Immunohistochemistry |
-| SP | Fluorescence microscopy |
-| SP | *Ex vivo* cation (Ca<sup>2+</sup> & K<sup>+</sup>) imaging |
-| VPM | Single-sensillum recording (SSR) |
-| SP, VPM | SSR data processing |
-| SP, VV | *R* scripting (automated processing/plotting of imaging data; three-step electrophysiological data analysis, peak extraction & AUC calculation) |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Fly rearing, crossing |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Immunohistochemistry |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Fluorescence microscopy |
+| <font color="#8B1E3F"><strong>SP</strong></font> | *Ex vivo* cation (Ca<sup>2+</sup> & K<sup>+</sup>) imaging |
+| <font color="#115E59"><strong>VPM</strong></font> | Single-sensillum recording (SSR) |
+| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#115E59"><strong>VPM</strong></font> | SSR data processing |
+| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#704214"><strong>VV</strong></font> | *R* scripting (automated processing/plotting of imaging data; three-step electrophysiological data analysis, peak extraction & AUC calculation) |
 
 | Funding |
 |---|
