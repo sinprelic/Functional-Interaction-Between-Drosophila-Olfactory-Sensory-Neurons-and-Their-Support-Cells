@@ -108,23 +108,23 @@ readme.txt last updated: Nov 9, 2021
 | 🟢 SP | *Ex vivo* cation (Ca<sup>2+</sup> & K<sup>+</sup>) imaging |
 | 🟠 VPM | Single-sensillum recording (SSR) |
 | 🟢 SP<br>🟠 VPM | SSR data processing |
-| 🟢 SP<br>🟤 VV | *R* scripting (automated processing/plotting of imaging data; three-step electrophysiological data analysis, peak extraction & AUC calculation) |
+| 🟢 SP<br>🟤 VV | *R* scripting (automated processing/plotting of imaging data;<br>three-step electrophysiological data analysis, peak extraction & AUC calculation) |
 
 | Funding |
 |---|
 | Max Planck Society |
 | International Max Planck Research School (IMPRS) "Chemical Communication in Ecological Systems" |
 
-| Special thanks |  |
-|---|---|
-| Sabine Kaltofen | Technical lab assistance |
-| Regina Stieber-Rödiger | Technical lab assistance |
-| Silke Trautheim | Technical lab assistance |
-| Dr. Veit Grabe | Technical lab assistance |
-| Carolin Hoyer | Technical lab assistance |
-| Dr. Yi Shen | `GINKO1` plasmid provision |
-| Dr. Fabio Miazzi | `pUAST-GINKO1` construct prep for fly transformation |
-| Dr. Craig Montell | Supplying `ASE5-GAL4`, `nompA-GAL4` transgenic fly lines |
+| Special thanks |
+|---|
+| Sabine Kaltofen (Technical lab assistance) |
+| Regina Stieber-Rödiger (Technical lab assistance) |
+| Silke Trautheim (Technical lab assistance) |
+| Dr. Veit Grabe (Technical lab assistance) |
+| Carolin Hoyer (Technical lab assistance) |
+| Dr. Yi Shen (`GINKO1` plasmid provision) |
+| Dr. Fabio Miazzi (`pUAST-GINKO1` construct prep for fly transformation) |
+| Dr. Craig Montell (Supplying `ASE5-GAL4`, `nompA-GAL4` transgenic fly lines) |
 
 ## Citation
 
